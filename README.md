@@ -1,6 +1,6 @@
 # Example
 ```
-$ ./dlsubs.sh link
+$ ./dlsubs.sh links
 Wrote xml to DWkYRh6OXy.xml
 Wrote xml to LgrXd0NM2y.xml
 $ ls *.xml
